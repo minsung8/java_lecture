@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="829a3d51-73f1-40e7-a65f-7a9ef6e5edfd" name="Changes" comment="" />
+    <list default="true" id="829a3d51-73f1-40e7-a65f-7a9ef6e5edfd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip4/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip4/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip5/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip5/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip5/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip4/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +43,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -33,6 +53,7 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2DcQOuedDYgfnYzWrZqUacU97OL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -57,39 +78,13 @@
       <recent name="clip4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Quiz">
-    <configuration name="Character" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.de.java.clip3.clip3.Character" />
-      <module name="gradle-project.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.de.java.clip3.clip3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Con" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.de.java.clip3.clip2.Con" />
-      <module name="gradle-project.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.de.java.clip3.clip2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main3">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.de.java.clip3.clip1.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.de.java.clip3.clip5.Main" />
       <module name="gradle-project.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.de.java.clip3.clip1.*" />
+          <option name="PATTERN" value="com.de.java.clip3.clip5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.de.java.clip3.clip3.Number" />
+    <configuration name="Main2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.de.java.clip3.clip5.Main2" />
       <module name="gradle-project.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.de.java.clip3.clip3.*" />
+          <option name="PATTERN" value="com.de.java.clip3.clip5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.de.java.clip3.clip3.Quiz" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.de.java.clip3.clip4.Main2" />
       <module name="gradle-project.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.de.java.clip3.clip3.*" />
+          <option name="PATTERN" value="com.de.java.clip3.clip4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +118,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReferenceType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.de.java.clip3.clip3.ReferenceType" />
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.de.java.clip3.clip5.Main3" />
       <module name="gradle-project.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.de.java.clip3.clip3.*" />
+          <option name="PATTERN" value="com.de.java.clip3.clip5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Quiz (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.de.java.clip3.clip4.Quiz" />
+      <module name="gradle-project.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.de.java.clip3.clip4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Quiz" />
-        <item itemvalue="Application.ReferenceType" />
-        <item itemvalue="Application.Character" />
-        <item itemvalue="Application.Number" />
-        <item itemvalue="Application.Con" />
+        <item itemvalue="Application.Main3" />
+        <item itemvalue="Application.Main2 (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Quiz (1)" />
+        <item itemvalue="Application.Main2" />
       </list>
     </recent_temporary>
   </component>
@@ -154,11 +162,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660995864645</updated>
-      <workItem from="1660995866604" duration="3921000" />
+      <workItem from="1660995866604" duration="4531000" />
+      <workItem from="1661486217162" duration="4476000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip4/Main2.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
