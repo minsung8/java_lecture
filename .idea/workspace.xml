@@ -5,22 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="829a3d51-73f1-40e7-a65f-7a9ef6e5edfd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip4/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip4/Quiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip5/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip5/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip5/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip10/TryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip7/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip7/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip7/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip8/B1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip8/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip9/GrandParents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip9/Parents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip9/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip9/Son.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip4/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,12 +43,21 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -72,19 +85,20 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/de/java/clip3" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.de.java.clip3.clip9" />
       <recent name="com.de.java.clip3.clip4" />
       <recent name="com.de.java.clip3.clip3" />
       <recent name="com.de.java.clip3.clip2" />
       <recent name="clip4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main3">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.de.java.clip3.clip5.Main" />
+  <component name="RunManager" selected="Application.TryCatch">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.de.java.clip3.clip8.Main" />
       <module name="gradle-project.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.de.java.clip3.clip5.*" />
+          <option name="PATTERN" value="com.de.java.clip3.clip8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.de.java.clip3.clip5.Main2" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.de.java.clip3.clip9.Main" />
       <module name="gradle-project.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.de.java.clip3.clip5.*" />
+          <option name="PATTERN" value="com.de.java.clip3.clip9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.de.java.clip3.clip4.Main2" />
+    <configuration name="Main3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.de.java.clip3.clip7.Main3" />
       <module name="gradle-project.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.de.java.clip3.clip4.*" />
+          <option name="PATTERN" value="com.de.java.clip3.clip7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quiz (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.de.java.clip3.clip4.Quiz" />
+    <configuration name="TryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.de.java.clip3.clip10.TryCatch" />
       <module name="gradle-project.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.de.java.clip3.clip4.*" />
+          <option name="PATTERN" value="com.de.java.clip3.clip10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TryCatch" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main3 (1)" />
         <item itemvalue="Application.Main3" />
-        <item itemvalue="Application.Main2 (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Quiz (1)" />
-        <item itemvalue="Application.Main2" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +177,8 @@
       <option name="presentableId" value="Default" />
       <updated>1660995864645</updated>
       <workItem from="1660995866604" duration="4531000" />
-      <workItem from="1661486217162" duration="4476000" />
+      <workItem from="1661486217162" duration="5455000" />
+      <workItem from="1661596686989" duration="4817000" />
     </task>
     <servers />
   </component>
@@ -188,6 +203,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip4/Main2.java</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip9/Main.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
