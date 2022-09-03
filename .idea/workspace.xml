@@ -5,25 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="829a3d51-73f1-40e7-a65f-7a9ef6e5edfd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip10/TryCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip7/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip7/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip7/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip8/B1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip8/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip9/GrandParents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip9/Parents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip9/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip9/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip11/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip11/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip12/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip12/RetrofitClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip12/RetrofitService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip12/TcpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip12/TcpServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +75,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/de/java/clip3/clip4" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -92,39 +92,13 @@
       <recent name="clip4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TryCatch">
+  <component name="RunManager" selected="Application.TcpClient">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.de.java.clip3.clip8.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.de.java.clip3.clip12.Main" />
       <module name="gradle-project.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.de.java.clip3.clip8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.de.java.clip3.clip9.Main" />
-      <module name="gradle-project.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.de.java.clip3.clip9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.de.java.clip3.clip7.Main3" />
-      <module name="gradle-project.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.de.java.clip3.clip7.*" />
+          <option name="PATTERN" value="com.de.java.clip3.clip12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +107,11 @@
       </method>
     </configuration>
     <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.de.java.clip3.clip5.Main3" />
+      <option name="MAIN_CLASS_NAME" value="com.de.java.clip3.clip11.Main3" />
       <module name="gradle-project.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.de.java.clip3.clip5.*" />
+          <option name="PATTERN" value="com.de.java.clip3.clip11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,25 +119,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.de.java.clip3.clip10.TryCatch" />
+    <configuration name="TcpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.de.java.clip3.clip12.TcpClient" />
       <module name="gradle-project.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.de.java.clip3.clip10.*" />
+          <option name="PATTERN" value="com.de.java.clip3.clip12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="TcpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.de.java.clip3.clip12.TcpServer" />
+      <module name="gradle-project.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.de.java.clip3.clip12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gradle-project [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TryCatch" />
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.TcpClient" />
+        <item itemvalue="Application.TcpServer" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main3 (1)" />
+        <item itemvalue="Gradle.gradle-project [dependencies]" />
         <item itemvalue="Application.Main3" />
       </list>
     </recent_temporary>
@@ -178,7 +186,10 @@
       <updated>1660995864645</updated>
       <workItem from="1660995866604" duration="4531000" />
       <workItem from="1661486217162" duration="5455000" />
-      <workItem from="1661596686989" duration="4817000" />
+      <workItem from="1661596686989" duration="6146000" />
+      <workItem from="1661679309483" duration="2000" />
+      <workItem from="1662093655433" duration="1802000" />
+      <workItem from="1662203317260" duration="5560000" />
     </task>
     <servers />
   </component>
